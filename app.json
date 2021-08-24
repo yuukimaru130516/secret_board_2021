@@ -1,0 +1,8 @@
+{
+  "name": "secret_board_2021",
+  "description": "秘密の匿名掲示板"
+  "repository": "https://github.com/yuukimaru130516/secret_board_2021"
+  "logo": "",
+  "keyword": ["node"]
+  "image": "heroku/nodejs"
+}
