@@ -4,7 +4,7 @@
   "description": "匿名掲示板2021年版",
   "main": "index.js",
   "scripts": {
-    "index": "node index.js",
+    "start": "node index.js",
     "test": "node test.js"
   },
   "license": "MIT",
